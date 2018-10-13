@@ -1,0 +1,33 @@
+{
+  "name": "graphql-koa-api-demo",
+  "version": "0.0.1",
+  "description": "GraphQL + Koa API service",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "neikvon",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-koa": "^2.1.0",
+    "graphql": "^14.0.2",
+    "koa": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neikvon/graphql-koa-api-demo.git"
+  },
+  "engines": {
+    "node": ">=6.9.1",
+    "npm": ">= 3.10.0"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/neikvon/graphql-koa-api-demo/issues"
+  },
+  "homepage": "https://github.com/neikvon/graphql-koa-api-demo#readme",
+  "fbi": {
+    "template": {
+      "name": "fbi-project-mod",
+      "version": "v4.1.1"
+    }
+  }
+}
